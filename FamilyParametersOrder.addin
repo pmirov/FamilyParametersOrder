@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>FamilyParametersOrder\FamilyParametersOrder.dll</Assembly>
+    <FullClassName>Revit.SDK.Samples.FamilyParametersOrder.CS.ExternalApplication</FullClassName>
+    <AddInId>8A205B60-B400-40D0-AA7E-B46DF6B2A2D9</AddInId>
+	<Name>Сортировка параметров семейства</Name>
+    <VendorId>ПАКС</VendorId>
+    <VendorDescription>ПАКС, www.ПАКС.рф</VendorDescription>
+  </AddIn>
+</RevitAddIns>
